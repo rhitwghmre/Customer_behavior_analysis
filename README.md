@@ -9,11 +9,15 @@ This project showcases a complete end-to-end data analytics workflow, starting f
 Python, SQL, and Power BI are used to clean, analyze, and visualize data, enabling data-driven decision-making through dashboards and reports.
 </p>
 
+<hr>
+
 <h2><b>Business Problem</b></h2>
 <p>
 Organizations often struggle to extract meaningful insights from raw and inconsistent data due to poor data quality, lack of structured analysis, 
 and the absence of clear visualizations.
 </p>
+
+<hr>
 
 <h2><b>📌 Project Overview</b></h2>
 
@@ -50,6 +54,8 @@ This project highlights how data analysts support decision-making by combining d
 
 <img width="4872" height="2656" alt="500731798-8bbd5dc9-eb6c-40c1-8f19-c08b4107f654" src="https://github.com/user-attachments/assets/3c628dd7-6c14-4bba-a28c-22b4577bcda5" />
 
+<hr>
+
 <h2><b>Methodology</b></h2>
 <ol>
   <li>Extracted, cleaned, and transformed raw data using Python.</li>
@@ -58,6 +64,8 @@ This project highlights how data analysts support decision-making by combining d
   <li>Executed SQL queries to generate KPIs and insights.</li>
   <li>Built an interactive Power BI dashboard.</li>
 </ol>
+
+<hr>
 
 <h2><b>Skills</b></h2>
 
@@ -81,6 +89,8 @@ This project highlights how data analysts support decision-making by combining d
   <li>Exploratory Data Analysis (EDA)</li>
 </ul>
 
+<hr>
+
 <h2><b>Results & Business Recommendations</b></h2>
 <p>
 The project transformed raw data into meaningful insights and enabled KPI monitoring through interactive dashboards, 
@@ -93,6 +103,8 @@ supporting data-driven business decisions.
   alt="Customer Behavior Analysis Dashboard" 
   src="https://github.com/user-attachments/assets/058bf819-806c-4b4a-a667-ed8a42f1463b" 
 />
+
+<hr>
 
 <h2><b>Next Steps</b></h2>
 <ol>

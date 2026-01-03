@@ -15,6 +15,43 @@ Organizations often struggle to extract meaningful insights from raw and inconsi
 and the absence of clear visualizations.
 </p>
 
+<hr>
+
+<h2><b>📌 Project Overview</b></h2>
+
+<p>
+The goal of this project is to simulate a <b>corporate-grade, end-to-end data analytics workflow</b>, demonstrating the ability to transform raw data into strategic business intelligence.
+</p>
+
+<p>
+This project highlights how data analysts support decision-making by combining data preparation, analytical querying, and visual storytelling.
+</p>
+
+<p><b>Key Components of the Workflow</b></p>
+<ul>
+  <li>
+    <b>Data Preparation, Modeling & Exploratory Data Analysis (Python):</b>
+    Cleaned, transformed, and explored the raw dataset to ensure data quality and uncover initial trends and patterns.
+  </li>
+
+  <li>
+    <b>Data Analysis (SQL):</b>
+    Simulated business transactions and executed SQL queries to extract insights related to customer behavior, purchasing patterns, and key business drivers.
+  </li>
+
+  <li>
+    <b>Visualization & Insights (Power BI):</b>
+    Developed an interactive dashboard to highlight key trends, KPIs, and patterns, enabling stakeholders to make informed, data-driven decisions.
+  </li>
+
+  <li>
+    <b>Reporting & Presentation:</b>
+    Prepared a structured project report summarizing analytical findings and business recommendations, along with a presentation that clearly communicates insights and actionable outcomes to stakeholders.
+  </li>
+</ul>
+
+<img width="4872" height="2656" alt="500731798-8bbd5dc9-eb6c-40c1-8f19-c08b4107f654" src="https://github.com/user-attachments/assets/3c628dd7-6c14-4bba-a28c-22b4577bcda5" />
+
 <h2><b>Methodology</b></h2>
 <ol>
   <li>Extracted, cleaned, and transformed raw data using Python.</li>

@@ -15,8 +15,6 @@ Organizations often struggle to extract meaningful insights from raw and inconsi
 and the absence of clear visualizations.
 </p>
 
-<hr>
-
 <h2><b>📌 Project Overview</b></h2>
 
 <p>
